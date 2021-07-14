@@ -59,7 +59,7 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 - 🔓3️⃣[`D35E` on Foundry VTT](https://foundryvtt.com/packages/D35E/) - Play D&D 3.5e on Foundry VTT
 - 🔓2️⃣[`pf2e` on Foundry VTT](https://foundryvtt.com/packages/pf2e/) - Play Pathfinder 2e on Foundry VTT
 - 🔓2️⃣[`pf1` on Foundry VTT](https://foundryvtt.com/packages/pf1/) - Play Pathfinder 1e on Foundry VTT
-- 🔒5️⃣[D&D 5e on Astral Tabletop](https://www.astraltabletop.com/whats-new/2020-10-16) - Astral's 5e compendium is powered by [D&D 5e API](https://www.dnd5eapi.co/)
+- 🔒5️⃣[D&D 5e on Astral Tabletop](https://www.astraltabletop.com/whats-new/2020-10-16) - Astral's 5e compendium is powered by D&D 5e API
 
 
 ## Other
