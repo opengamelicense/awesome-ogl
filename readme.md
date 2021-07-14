@@ -1,28 +1,90 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
+# Awesome OGL Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image. uncomment the img code.
-   - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link and uncomment the line
-3. edit `code_of_conduct.md`
-   - update `TODO_INSERT_YOUR_EMAIL_HERE`
-4. edit `contributing.md`
-   - update `TODO_YOUR_REPO_NAME_HERE`
-5. choose a CI template
-   - GitHub Action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
-6. delete this file
-7. rename `readme-template.md` file to `readme.md`
-8. if using GitHub Actions, rename `readme-template.md` to `readme.md` in the GitHub Workflow file `.github/workflows/lint.yaml`
+<!-- subtitle -->
+
+A curated list of recommended projects that use/license Open Game Content 
+
+
+
+<!-- image -->
+
+<a href="https://opengamelicense.org" target="_blank" rel="noopener noreferrer">
+  <img src="/images/ogl-banner.png" />
+</a>
+
+<!-- description -->
+
+The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a content license like Creative Commons that allows use and redistribution of Open Game Content
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+### Open Source
+
+- [Hypertext SRDs](#open-source-hypertext-srds)
+- [Bots and Automation](#open-source-bots-and-automation)
+- [Character Builders](#open-source-character-builders)
+- [Other](#open-source-other)
+
+### Closed Source
+
+- [Hypertext SRDs](#closed-source-hypertext-srds)
+- [Bots and Automation](#closed-source-bots-and-automation)
+- [Character Builders](#closed-source-character-builders)
+- [Other](#closed-source-other)
+
+<!-- CONTENT -->
+
+## Open Source Hypertext SRDs
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+## Open Source Bots and Automation
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Open Source Character Builders
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+## Open Source Other
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Closed Source Hypertext SRDs
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+## Closed Source Bots and Automation
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Closed Source Character Builders
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+## Closed Source Other
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+<!-- END CONTENT -->
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/anthonyronda/awesome-ogl/graphs/contributors)!
+
+## License
+
+[CC0 License](license)

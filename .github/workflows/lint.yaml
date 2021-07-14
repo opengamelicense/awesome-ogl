@@ -1,21 +1,16 @@
-name: lint
-on: 
-  pull_request:
-  push:
-    branches:
-      - main
+name: Lint Awesome List
+on: [pull_request, push]
 
 jobs:
   awesome-lint:
+    name: "lint: awesome-lint"
     runs-on: ubuntu-latest
     steps:
       - name: "checkout repo"
         uses: actions/checkout@v2.0.0
         with:
           fetch-depth: 0
-      - name: "setup node"
-        uses: actions/setup-node@v2
+      - name: "lint: awesome-lint"
+        uses: jthegedus/github-action-awesome-lint@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
         with:
-          node-version: '16'
-      - name: "awesome-lint"
-        run: npx -y awesome-lint ./readme-template.md
+          args: ./readme.md
