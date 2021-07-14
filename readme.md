@@ -64,7 +64,7 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 
 ## Other
 
-- [dScryb](https://dscryb.com/) - Provides D&D inspired text for players
+- 🔒[dScryb](https://dscryb.com/) - Provides D&D inspired text for players
 
 <!-- END CONTENT -->
 
