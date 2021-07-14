@@ -3,13 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome OGL Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome OGL Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/anthonyronda/awesome-ogl/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
 A curated list of recommended projects that use/license Open Game Content 
-
-
 
 <!-- image -->
 
@@ -27,51 +25,43 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 
 ## Contents
 
-### Open Source
+- [Hypertext SRDs](#hypertext-srds)
+- [APIs](#apis)
+- [Bots and Automation](#bots-and-automation)
+- [Character Builders](#character-builders)
+- [VTT Implementations](#vtt-implementations)
+- [Other](#other)
 
-- [Hypertext SRDs](#open-source-hypertext-srds)
-- [Bots and Automation](#open-source-bots-and-automation)
-- [Character Builders](#open-source-character-builders)
-- [Other](#open-source-other)
+**Legend**: 🔓 open source · 🔒 closed source · 🔁 Creative Commons Share-Alike · 5️⃣ D&D 5e · 3️⃣ D&D 3.5e · 2️⃣ PF 2e · 1️⃣ PF1e
 
-### Closed Source
+<!-- START CONTENT -->
 
-- [Hypertext SRDs](#closed-source-hypertext-srds)
-- [Bots and Automation](#closed-source-bots-and-automation)
-- [Character Builders](#closed-source-character-builders)
-- [Other](#closed-source-other)
+## Hypertext SRDs
 
-<!-- CONTENT -->
+- 🔒5️⃣3️⃣1️⃣[The Hypertext d20 SRD](https://www.d20srd.org/) - Clean, simple interface for everything except Pathfinder 2
+- 🔁5️⃣3️⃣[D&D Wiki](https://dnd-wiki.org/wiki/Main_Page) - SRDs and other Open Game Content hosted on MediaWiki
 
-## Open Source Hypertext SRDs
+## APIs
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- 🔓5️⃣[D&D 5e API](https://www.dnd5eapi.co/) - RESTful API that returns SRD data for endpoint names like `spells/?name=Acid+Arrow`
 
-## Open Source Bots and Automation
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
-
-## Open Source Character Builders
-
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Open Source Other
+## Bots and Automation
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
-## Closed Source Hypertext SRDs
+## Character Builders
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- 🔓5️⃣3️⃣1️⃣[PCGen](http://pcgen.org/) - Twenty year old Java application with tons of Open Game Content in its generator
 
-## Closed Source Bots and Automation
+## VTT Implementations
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- 🔓5️⃣[`dnd5e` on Foundry VTT](https://foundryvtt.com/packages/dnd5e) - Play D&D 5e on Foundry VTT
+- 🔓3️⃣[`D35E` on Foundry VTT](https://foundryvtt.com/packages/D35E/) - Play D&D 3.5e on Foundry VTT
+- 🔓2️⃣[`pf2e` on Foundry VTT](https://foundryvtt.com/packages/pf2e/) - Play Pathfinder 2e on Foundry VTT
+- 🔓2️⃣[`pf1` on Foundry VTT](https://foundryvtt.com/packages/pf1/) - Play Pathfinder 1e on Foundry VTT
 
-## Closed Source Character Builders
 
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Closed Source Other
+## Other
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
@@ -84,7 +74,3 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/anthonyronda/awesome-ogl/graphs/contributors)!
-
-## License
-
-[CC0 License](license)
