@@ -59,7 +59,3 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/anthonyronda/awesome-ogl/graphs/contributors)!
-
-## License
-
-[CC0 License](license)
