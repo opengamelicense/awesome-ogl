@@ -46,6 +46,10 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
+## Other
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
 <!-- END CONTENT -->
 
 ## Contributing
