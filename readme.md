@@ -65,7 +65,7 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 
 ## Licensing Tools
 
-- 🔓[`licensor` for Go]() - Crate to generate a license file that supports OGL
+- 🔓[`licensor` for Go](https://github.com/sean-clayton/licensor) - Crate to generate a license file that supports OGL
 
 ## Other
 
