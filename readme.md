@@ -30,7 +30,9 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 - [Bots and Automation](#bots-and-automation)
 - [Character Builders](#character-builders)
 - [VTT Implementations](#vtt-implementations)
+- [Licensing Tools](#licensing-tools)
 - [Other](#other)
+- [Related Awesome Lists](#related-awesome-lists)
 
 **Legend**: 🔓 open source · 🔒 closed source · 🔁 Creative Commons Share-Alike · 5️⃣ D&D 5e · 3️⃣ D&D 3.5e · 2️⃣ PF 2e · 1️⃣ PF1e
 
@@ -61,10 +63,17 @@ The [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) is a co
 - 🔓2️⃣[`pf1` on Foundry VTT](https://foundryvtt.com/packages/pf1/) - Play Pathfinder 1e on Foundry VTT
 - 🔒5️⃣[D&D 5e on Astral Tabletop](https://www.astraltabletop.com/whats-new/2020-10-16) - Astral's 5e compendium is powered by D&D 5e API
 
+## Licensing Tools
+
+- 🔓[`licensor` for Go]() - Crate to generate a license file that supports OGL
 
 ## Other
 
 - 🔒[dScryb](https://dscryb.com/) - Provides D&D inspired text for players
+
+## Related Awesome Lists
+
+- 5️⃣[Awesome D&D 5e SRD](https://github.com/5e-bits/awesome-5e-srd) - 5e specific project list curated by maintainers of D&D 5e API 
 
 <!-- END CONTENT -->
 
